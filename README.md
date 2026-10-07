@@ -186,10 +186,7 @@ El frontend queda en `http://localhost:5173` y el API en `http://localhost:5000`
 ---
 
 ## Contacto
-
-- **GitHub:** [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn:** [tu-perfil](https://linkedin.com/in/tu-perfil)
-- **Correo:** tu@email.com
+- **Correo:*martinnnzapata7@gmail.com*
 
 ---
 
