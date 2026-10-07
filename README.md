@@ -20,7 +20,7 @@ EasyNotes v2 es una plataforma web para la administración completa de instituci
 
 ## Capturas
 
-> **Cuenta utilizada en las capturas:** perfil **Super Admin** (`super` / `123456` en el entorno de demostración), el rol de máximo nivel: administra los núcleos y colegios de todas las instituciones. El login es el mismo para todos los perfiles; lo que cambia es el menú y los permisos según el rol.
+> **Cuenta utilizada en las capturas:** perfil **Super Admin** (`super` / `123456` en el entorno de demostración), el rol de máximo nivel: administra los núcleos y colegios de todas las instituciones.
 
 **1. Login**
 
