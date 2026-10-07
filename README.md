@@ -20,19 +20,23 @@ EasyNotes v2 es una plataforma web para la administración completa de instituci
 
 ## Capturas
 
-**Login**
+> **Cuenta utilizada en las capturas:** perfil **Super Admin** (`super` / `123456` en el entorno de demostración), el rol de máximo nivel: administra los núcleos y colegios de todas las instituciones. El login es el mismo para todos los perfiles; lo que cambia es el menú y los permisos según el rol.
+
+**1. Login**
 
 ![Login](screenshots/01-login.png)
 
-**Dashboard y gestión académica**
+**2. Dashboard del Super Admin** — panel de dirección de núcleo con indicadores globales (colegios, estudiantes, docentes, matrículas activas) y accesos rápidos.
 
-| Dashboard | Matrículas |
-|---|---|
-| ![Dashboard](screenshots/02-dashboard.png) | ![Matrículas](screenshots/03-matriculas.png) |
+![Dashboard Super Admin](screenshots/02-dashboard.png)
 
-**Boletines de calificaciones**
+**3. Colegios del núcleo** — gestión de instituciones educativas con sus sedes, grupos y métricas.
 
-![Boletines](screenshots/04-boletin.png)
+![Colegios del núcleo](screenshots/03-instituciones.png)
+
+**4. Estadísticas del núcleo** — indicadores agregados de todos los colegios supervisados.
+
+![Estadísticas](screenshots/04-estadisticas.png)
 
 ---
 
