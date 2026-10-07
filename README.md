@@ -125,8 +125,6 @@ Ocho perfiles con autorización verificada en el servidor (nunca solo en el clie
 | `estudiante` | Consulta de notas, horarios, excusas |
 | `acudiente` | Seguimiento de hijos, pagos, comunicados |
 
-Cámbiate de perfil dentro de la sesión (`ElegirPerfil`) sin volver a iniciar sesión.
-
 ---
 
 ## Seguridad
